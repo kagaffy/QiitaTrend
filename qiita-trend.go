@@ -42,7 +42,7 @@ func qiitaTrend() (string, error) {
 	selection := doc.Find("div[data-hyperapp-app='Trend']")
 	trend, ok := selection.Attr("data-hyperapp-props")
 	if !ok {
-		return "", errors.New("Not Found")
+		return "", errors.New("Internal Server Error")
 	}
 	return trend, nil
 }
