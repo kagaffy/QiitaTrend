@@ -1,5 +1,5 @@
 FROM golang:alpine as builder
-ENV APPDIR $GOPATH/src/github.com/shirakiyo/QiitaTrend
+ENV APPDIR $GOPATH/src/github.com/kagaffy/QiitaTrend
 ENV GO111MODULE on
 RUN \
   apk update --no-cache && \
