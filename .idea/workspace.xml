@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc0f71a5-7b39-44d7-86fc-42d193724090" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/qiitaTrend.go" beforeDir="false" afterPath="$PROJECT_DIR$/qiitaTrend.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +65,9 @@
       <screen x="-1920" y="-55" width="1920" height="1057" />
     </state>
     <state x="-1015" y="342" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877/-1920.-55.1920.1057@-1920.-55.1920.1057" timestamp="1590149070340" />
-    <state x="-1141" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1590148296512">
+    <state x="-1141" y="248" width="670" height="676" key="search.everywhere.popup" timestamp="1590752792294">
       <screen x="-1920" y="-55" width="1920" height="1057" />
     </state>
-    <state x="-1141" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.-55.1920.1057@-1920.-55.1920.1057" timestamp="1590148296512" />
+    <state x="-1141" y="248" width="670" height="676" key="search.everywhere.popup/0.23.1440.877/-1920.-55.1920.1057@-1920.-55.1920.1057" timestamp="1590752792294" />
   </component>
 </project>
